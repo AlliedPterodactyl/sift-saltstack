@@ -1,6 +1,6 @@
 release:
   github:
-    owner: teamdfir
+    owner: AlliedPterodactyl
     repo: sift-saltstack
 manifest:
   version: 2
