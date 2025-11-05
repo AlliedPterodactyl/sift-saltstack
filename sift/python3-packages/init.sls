@@ -16,6 +16,7 @@ include:
   - sift.python3-packages.stix-validator
   - sift.python3-packages.usbdeviceforensics
   - sift.python3-packages.usnparser
+  - sift.python3-packages.volatility3
 
 sift-python3-packages:
   test.nop:
@@ -38,3 +39,4 @@ sift-python3-packages:
       - sls: sift.python3-packages.stix-validator
       - sls: sift.python3-packages.usbdeviceforensics
       - sls: sift.python3-packages.usnparser
+      - sift.python3-packages.volatility3
